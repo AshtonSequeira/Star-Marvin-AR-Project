@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="AirdopesImage" size="0.088000 0.110555"/>
+        <ImageTarget name="PositiveThinking" size="0.108000 0.182025"/>
+        <ImageTarget name="DogClipArt" size="0.160000 0.156190"/>
+        <ImageTarget name="Airdopes170.Top" size="0.088000 0.110555"/>
+        <ImageTarget name="Airdopes170.Bottom" size="0.088000 0.110497"/>
+        <MultiTarget name="Airdopes170">
+            <Part name="Airdopes170.Top" translation="0 0.01899999938905239 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="Airdopes170.Bottom" translation="0 -0.01899999938905239 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>
